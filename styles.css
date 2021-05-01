@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/space.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+h1{
+    background-color: #36393E;
+    border: white;
+    color: white;
+}
+h2{
+    background-color: #36393E;
+    color: white;
+}
+ul{
+    background-color: #36393E;
+    color: white;
+}
+p{
+    background-color: #36393E;
+    color: white;
+}
+footer{
+    background-color: #36393E;
+    color: white;
+}
