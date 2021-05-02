@@ -1,4 +1,6 @@
 body{
+    display: flex;
+    flex-wrap:wrap;
     margin: 0;
     padding: 0;
     background: url(img/space.jpg);   
@@ -6,24 +8,14 @@ body{
     background-position: center;
     font-family: sans-serif;
 }
-h1{
-    background-color: #36393E;
-    border: white;
-    color: white;
+.container{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
 }
-h2{
-    background-color: #36393E;
-    color: white;
-}
-ul{
-    background-color: #36393E;
-    color: white;
-}
-p{
-    background-color: #36393E;
-    color: white;
-}
-footer{
+.font-theme{
+    border: 3px solid white;
+    padding: 7px;
     background-color: #36393E;
     color: white;
 }
