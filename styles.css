@@ -3,7 +3,7 @@ body{
     flex-wrap:wrap;
     margin: 0;
     padding: 0;
-    background: url(img/space.jpg);   
+    background-color:#36393E;
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
